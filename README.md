@@ -19,6 +19,14 @@ You may also see any lint errors in the console.
 #### ```npm i react-icons```
 #### ```npm i react-carousel```
 #### ```npm i react-scroll```
+## DEMO SCREENS
+![Demo 1](https://github.com/muktita/react_travel_app/blob/master/demo-screen.png "Demo Screen 1")
+#### Mobile Screen View
+![Demo 1](https://github.com/muktita/react_travel_app/blob/master/demo-mobile.png "Demo Screen Mobile)
+
+![Demo 1](https://github.com/muktita/react_travel_app/blob/master/demo-screen2.png "Demo Screen 2)
+![Demo 1](https://github.com/muktita/react_travel_app/blob/master/demo-screen3.png "Demo Screen 2)
+
 
 ## UML Diagram
 ![UML DIAGRAM](https://github.com/muktita/react_travel_app/blob/master/Untitled%20Workspace.png?raw=true "UML Diagram")
