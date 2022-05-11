@@ -21,4 +21,4 @@ You may also see any lint errors in the console.
 #### ```npm i react-scroll```
 
 ## UML Diagram
-[UML DIAGRAM](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+[UML DIAGRAM]https://github.com/muktita/react_travel_app/blob/master/Untitled%20Workspace.png?raw=true)
