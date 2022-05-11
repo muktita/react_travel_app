@@ -12,7 +12,7 @@ import TajMahal from "../../assests/tajmahal.jpg"
 
 function Destinations() {
     return (
-        <div className="destinations">
+        <div name="destinations" className="destinations">
             <div className="container">
                 <h1>Top Natural Locations to Visit</h1>
                 <p> Wonders of the World</p>

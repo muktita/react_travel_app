@@ -5,24 +5,27 @@ import {HiOutlineMenuAlt4} from "react-icons/hi";
 import {AiOutlineClose} from "react-icons/ai"
 import {FaFacebook, FaInstagram, FaTwitter, FaYoutube} from "react-icons/fa"
 
+import {Link} from 'react-scroll'
 
 import "./NavbarStyles.css"
+
 
 function Navbar() {
     const [nav, setNav] = useState(false)
     const handleNav = () => setNav(!nav)
 
     return (
-        <div className={nav ? "navbar navbar-bg": "navbar"}>
+        <div name="home" className={nav ? "navbar navbar-bg": "navbar"}>
             <div className={nav ? "logo dark" : "logo"}>
                 <h2>Travel Companion.</h2>
             </div>
             <ul className="nav-menu">
-                <li>Home</li>
-                <li>Destinations</li>
-                <li>Travel</li>
-                <li>Book</li>
-                <li>Views</li>
+                <Link to='home'><li>Home</li></Link>
+                <Link to='destinations'><li>Destinations</li></Link>
+                <Link to='carousel'><li>Travel</li></Link>
+                <Link to='search'><li>Book</li></Link>
+                <Link to='view'><li>Views</li></Link>
+                
             </ul>
             <div className="nav-icons">
                 <BiSearch className="icon" style={{marginRight: "1rem"}}/>

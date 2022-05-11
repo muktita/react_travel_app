@@ -1,6 +1,8 @@
 import React from "react";
 import ImgCarousel from "./components/carousel/imgCarousel";
 import Destinations from "./components/destinations/Destinations";
+import Footer from "./components/footer/footer";
+
 
 import Hero from "./components/hero/Hero";
 import Navbar from "./components/navbar/Navbar";
@@ -22,7 +24,7 @@ function App() {
       <Select/>
       <SelectsImg/>
       <ImgCarousel/>
-    
+      <Footer/>
     </div>
   );
 }
