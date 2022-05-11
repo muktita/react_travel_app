@@ -15,7 +15,7 @@ function Navbar() {
     return (
         <div className={nav ? "navbar navbar-bg": "navbar"}>
             <div className={nav ? "logo dark" : "logo"}>
-                <h2>BEACHES.</h2>
+                <h2>Travel Companion.</h2>
             </div>
             <ul className="nav-menu">
                 <li>Home</li>

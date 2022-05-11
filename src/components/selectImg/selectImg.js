@@ -1,5 +1,5 @@
 import React from 'react'
-import "./selectsImgStyles.css"
+import './SelectsImgStyles.css'
 
 function SelectsImg({bgImg, text}) {
     return (
