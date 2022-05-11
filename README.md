@@ -22,10 +22,9 @@ You may also see any lint errors in the console.
 ## DEMO SCREENS
 ![Demo 1](https://github.com/muktita/react_travel_app/blob/master/demo-screen.png "Demo Screen 1")
 #### Mobile Screen View
-![Demo 1](https://github.com/muktita/react_travel_app/blob/master/demo-mobile.png "Demo Screen Mobile)
-
-![Demo 1](https://github.com/muktita/react_travel_app/blob/master/demo-screen2.png "Demo Screen 2)
-![Demo 1](https://github.com/muktita/react_travel_app/blob/master/demo-screen3.png "Demo Screen 2)
+![Demo mobile](https://github.com/muktita/react_travel_app/blob/master/demo-mobile.png "Demo Screen Mobile")
+![Demo 2](https://github.com/muktita/react_travel_app/blob/master/demo-screen2.png "Demo Screen 2")
+![Demo 3](https://github.com/muktita/react_travel_app/blob/master/demo-screen3.png "Demo Screen 3")
 
 
 ## UML Diagram
