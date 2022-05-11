@@ -2,25 +2,26 @@ import React from "react";
 
 import "./DestinationStyles.css";
 
-import BoraBora from "../../assests/borabora.jpg"
-import BoraBora2 from "../../assests/borabora2.jpg"
-import Maldives from "../../assests/maldives.jpg"
+import Angkor from "../../assests/angkorwat.jpg"
+import KohRong from "../../assests/kohrong.jpg"
+import Collosseum from "../../assests/collosseum.jpg"
 import Maldvies2 from "../../assests/maldives2.jpg"
-import KeyWest from "../../assests/keywest.jpg"
+import TajMahal from "../../assests/tajmahal.jpg"
+
 
 
 function Destinations() {
     return (
         <div className="destinations">
             <div className="container">
-                <h1> All Inclusive Resorts</h1>
-                <p> On the Carribean's Best Beaches</p>
+                <h1>Top Natural Locations to Visit</h1>
+                <p> Wonders of the World</p>
                 <div className="img-container">
-                    <img src={BoraBora} alt="/"/>
-                    <img src={BoraBora2} alt="/"/>
-                    <img src={Maldives} alt="/"/>
+                    <img className="span-3 image-grid-row-2" src={Angkor} alt="/"/>
+                    <img src={TajMahal} alt="/"/>
+                    <img src={Collosseum} alt="/"/>
+                    <img src={KohRong} alt="/"/>
                     <img src={Maldvies2} alt="/"/>
-                    <img src={KeyWest} alt="/"/>
                 </div>
             </div>
         </div>
