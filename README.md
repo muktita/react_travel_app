@@ -17,4 +17,8 @@ You may also see any lint errors in the console.
 ### To add all dependencies
 
 #### ```npm i react-icons```
+#### ```npm i react-carousel```
+#### ```npm i react-scroll```
 
+## UML Diagram
+[UML DIAGRAM](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
